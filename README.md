@@ -1,2 +1,19 @@
-# Predictive-Modeling-ML
-Predictive modeling project using Machine Learning and Random Forest Classifier on the Titanic dataset.
+# Predictive Modeling Using Machine Learning
+
+This project predicts outcomes using Machine Learning algorithms.
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+## Features
+- Data preprocessing
+- Model training
+- Accuracy testing
+- Confusion matrix visualization
+
+## Algorithm Used
+Random Forest Classifier
